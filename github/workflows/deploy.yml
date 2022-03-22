@@ -26,4 +26,4 @@ steps:
   - name: deploy the app
   run: npm run deploy
   env:
-   GH_TOKEN: ${{ secrets.GHTOKEN }}
+   GHTOKEN: ${{ secrets.GHTOKEN }}
