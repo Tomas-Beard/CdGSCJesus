@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CdGSCJesus/static/css/main.e251b1da.css",
+    "main.js": "/CdGSCJesus/static/js/main.baa076db.js",
+    "static/js/787.03b84bb4.chunk.js": "/CdGSCJesus/static/js/787.03b84bb4.chunk.js",
+    "static/media/background.png": "/CdGSCJesus/static/media/background.95368b582aa2242ada0f.png",
+    "index.html": "/CdGSCJesus/index.html",
+    "main.e251b1da.css.map": "/CdGSCJesus/static/css/main.e251b1da.css.map",
+    "main.baa076db.js.map": "/CdGSCJesus/static/js/main.baa076db.js.map",
+    "787.03b84bb4.chunk.js.map": "/CdGSCJesus/static/js/787.03b84bb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e251b1da.css",
+    "static/js/main.baa076db.js"
+  ]
+}
