@@ -95,7 +95,7 @@ a {
   border: 1px solid #eaeaea;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
-  max-width: 300px;
+  /* max-width: 300px; */
 }
 
 .card:hover,
@@ -218,6 +218,7 @@ a {
 
 .col-6 {
   padding-bottom: 1px !important;
+  text-align: left;
 }
 
 .col-6> h4 {
@@ -263,4 +264,11 @@ a {
 .accordion-header > button{
   font-weight: 700 !important;
   font-size: large;
+}
+
+#cardturnos{
+  width: 1000px !important;
+}
+#cardturnos > .col-6{
+  width: 500px !important
 }

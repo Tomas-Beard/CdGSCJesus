@@ -4,7 +4,7 @@ const Cuerpom =  () =>{
           <img
             src="/002.png"
             height={400}
-            width={1400}
+            width={1366}
             class="wall-image"
             alt="perrito"
           />
